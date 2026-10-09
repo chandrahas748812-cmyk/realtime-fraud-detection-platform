@@ -1,0 +1,46 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Type checking
+.mypy_cache/
+
+# MLflow runs and artefacts
+mlruns/
+artifacts/
+
+# Data (large / sensitive, keep out of the repo)
+data/
+*.csv
+*.parquet
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+.DS_Store
