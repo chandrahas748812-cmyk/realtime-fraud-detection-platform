@@ -1,0 +1,18 @@
+# API
+fastapi
+uvicorn
+pydantic
+
+# Machine learning
+xgboost
+pandas
+scikit-learn
+mlflow
+shap
+
+# Streaming and feature store
+redis
+kafka-python
+
+# Numerical utilities
+numpy
